@@ -27,8 +27,10 @@ findLeaves <- function(node) {
     }
   } else {
     count <<- count + 1
-    sample[count] <<- unlist(strsplit(node$name, "[.]"))[1]
-    print (unlist(strsplit(node$name, "[.]"))[1])
+    sample[count] <<- node$name
+    # sample[count] <<- unlist(strsplit(node$name, "[.]"))[1]
+    # print (unlist(strsplit(node$name, "[.]"))[1])
+    print (node$name)
   }
 }
 
