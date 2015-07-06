@@ -3,7 +3,7 @@
   "id":1436224008144,
   "name":"LINCS-Test_joonyong.lee@pnnl.gov",
   "creationDate":1436224008144,
-  "lastModifiedDate":1436224008144,
+  "lastModifiedDate":1436224279435,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -14,7 +14,39 @@
       }
     ]
   },
-  "userDataNodes":null,
+  "userDataNodes":{
+    "@type":"java.util.ArrayList",
+    "@items":[
+      {
+        "@id":2,
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1436224279435,
+        "groupId":-1,
+        "isUserData":true,
+        "x":674.9801997095914,
+        "y":389.69999999999993,
+        "type":{
+          "@id":1,
+          "name":"PROTEIN_GROUP",
+          "ordinal":16
+        },
+        "score":0.0,
+        "data":"null;node73;28;0;LINCS-Test;PNNL-Comp-Mass-Spec;master",
+        "label":"node73",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      }
+    ]
+  },
   "userEdges":null,
   "groups":null
 }
