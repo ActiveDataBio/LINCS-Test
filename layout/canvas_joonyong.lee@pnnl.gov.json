@@ -18,15 +18,15 @@
     "@type":"java.util.ArrayList",
     "@items":[
       {
-        "@id":6,
+        "@id":5,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1436224504259,
         "groupId":-1,
         "isUserData":true,
-        "x":960.0,
-        "y":500.0,
+        "x":974.9713995805209,
+        "y":389.69999999999993,
         "type":{
-          "@id":4,
+          "@id":2,
           "name":"PROTEIN",
           "ordinal":17
         },
@@ -39,16 +39,17 @@
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.HashMap",
+          "@type":"java.util.LinkedHashMap",
           "LITERATURE:26142863":"(2015) Transcriptome profiles of whole blood in Italian Holstein and Italian Simmental lactating cows diverging for genetic merit for milk protein.",
-          "LITERATURE:26143615":"(2015) Safety and immunogenicity of a trivalent recombinant PcpA, PhtD, and PlyD1 pneumococcal protein vaccine in adults, toddlers, and infants: A phase I randomized controlled study."
+          "LITERATURE:26143615":"(2015) Safety and immunogenicity of a trivalent recombinant PcpA, PhtD, and PlyD1 pneumococcal protein vaccine in adults, toddlers, and infants: A phase I randomized controlled study.",
+          "PUBMEDS:-related antigen  -related[All Fields]":"Pubmed Titles List"
         },
         "buttons":{
           "@type":"java.util.HashMap"
         }
       },
       {
-        "@id":5,
+        "@id":4,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1436224507419,
         "groupId":-1,
@@ -56,7 +57,7 @@
         "x":524.9845997741267,
         "y":389.69999999999993,
         "type":{
-          "@id":1,
+          "@id":3,
           "name":"PROTEIN_GROUP",
           "ordinal":16
         },
