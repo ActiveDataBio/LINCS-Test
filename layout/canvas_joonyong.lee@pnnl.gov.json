@@ -3,7 +3,7 @@
   "id":1436224008144,
   "name":"LINCS-Test_joonyong.lee@pnnl.gov",
   "creationDate":1436224008144,
-  "lastModifiedDate":1436224482732,
+  "lastModifiedDate":1436224507419,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -15,7 +15,67 @@
     ]
   },
   "userDataNodes":{
-    "@type":"java.util.ArrayList"
+    "@type":"java.util.ArrayList",
+    "@items":[
+      {
+        "@id":6,
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1436224504259,
+        "groupId":-1,
+        "isUserData":true,
+        "x":960.0,
+        "y":500.0,
+        "type":{
+          "@id":4,
+          "name":"PROTEIN",
+          "ordinal":17
+        },
+        "score":0.0,
+        "data":";NP_005244.1;LINCS-Test;PNNL-Comp-Mass-Spec;master",
+        "label":"NP_005244.1",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.HashMap",
+          "LITERATURE:26142863":"(2015) Transcriptome profiles of whole blood in Italian Holstein and Italian Simmental lactating cows diverging for genetic merit for milk protein.",
+          "LITERATURE:26143615":"(2015) Safety and immunogenicity of a trivalent recombinant PcpA, PhtD, and PlyD1 pneumococcal protein vaccine in adults, toddlers, and infants: A phase I randomized controlled study."
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      },
+      {
+        "@id":5,
+        "@type":"gov.pnnl.activedata.data.DataNode",
+        "id":1436224507419,
+        "groupId":-1,
+        "isUserData":true,
+        "x":524.9845997741267,
+        "y":389.69999999999993,
+        "type":{
+          "@id":1,
+          "name":"PROTEIN_GROUP",
+          "ordinal":16
+        },
+        "score":0.0,
+        "data":"null;node47;3;4;LINCS-Test;PNNL-Comp-Mass-Spec;master",
+        "label":"node47",
+        "badge":0,
+        "sections":null,
+        "listValues":null,
+        "explainers":null,
+        "views":null,
+        "attributes":{
+          "@type":"java.util.LinkedHashMap"
+        },
+        "buttons":{
+          "@type":"java.util.HashMap"
+        }
+      }
+    ]
   },
   "userEdges":{
     "@type":"java.util.ArrayList"
