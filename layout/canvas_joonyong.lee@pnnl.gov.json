@@ -18,7 +18,7 @@
     "@type":"java.util.ArrayList",
     "@items":[
       {
-        "@id":8,
+        "@id":9,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1436224279435,
         "groupId":-1,
@@ -26,7 +26,7 @@
         "x":674.9801997095914,
         "y":389.69999999999993,
         "type":{
-          "@id":5,
+          "@id":3,
           "name":"PROTEIN_GROUP",
           "ordinal":16
         },
@@ -46,13 +46,13 @@
         }
       },
       {
-        "@id":7,
+        "@id":8,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1436224312270,
         "groupId":-1,
         "isUserData":true,
-        "x":960.0,
-        "y":500.0,
+        "x":1049.9691995482533,
+        "y":259.79999999999995,
         "type":{
           "@id":2,
           "name":"PROTEIN",
@@ -67,20 +67,20 @@
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.HashMap"
+          "@type":"java.util.LinkedHashMap"
         },
         "buttons":{
           "@type":"java.util.HashMap"
         }
       },
       {
-        "@id":6,
+        "@id":7,
         "@type":"gov.pnnl.activedata.data.DataNode",
         "id":1436224313719,
         "groupId":-1,
         "isUserData":true,
-        "x":1049.9691995482533,
-        "y":259.79999999999995,
+        "x":1349.9603994191827,
+        "y":519.5999999999999,
         "type":{"@ref":2},
         "score":0.0,
         "data":";NP_036244;LINCS-Test;PNNL-Comp-Mass-Spec;master",
@@ -91,7 +91,9 @@
         "explainers":null,
         "views":null,
         "attributes":{
-          "@type":"java.util.LinkedHashMap"
+          "@type":"java.util.LinkedHashMap",
+          "LITERATURE:24875404":"(2014) Spatial regulation of Aurora A activity during mitotic spindle assembly requires RHAMM to correctly localize TPX2.",
+          "PUBMEDS:targeting protein Xklp2":"Pubmed Titles List"
         },
         "buttons":{
           "@type":"java.util.HashMap"
