@@ -3,7 +3,7 @@
   "id":1436224008144,
   "name":"LINCS-Test_joonyong.lee@pnnl.gov",
   "creationDate":1436224008144,
-  "lastModifiedDate":1436224313719,
+  "lastModifiedDate":1436224482732,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
@@ -15,92 +15,10 @@
     ]
   },
   "userDataNodes":{
-    "@type":"java.util.ArrayList",
-    "@items":[
-      {
-        "@id":9,
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1436224279435,
-        "groupId":-1,
-        "isUserData":true,
-        "x":674.9801997095914,
-        "y":389.69999999999993,
-        "type":{
-          "@id":3,
-          "name":"PROTEIN_GROUP",
-          "ordinal":16
-        },
-        "score":0.0,
-        "data":"null;node73;28;0;LINCS-Test;PNNL-Comp-Mass-Spec;master",
-        "label":"node73",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@id":8,
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1436224312270,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1049.9691995482533,
-        "y":259.79999999999995,
-        "type":{
-          "@id":2,
-          "name":"PROTEIN",
-          "ordinal":17
-        },
-        "score":0.0,
-        "data":";NP_653265;LINCS-Test;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_653265",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      },
-      {
-        "@id":7,
-        "@type":"gov.pnnl.activedata.data.DataNode",
-        "id":1436224313719,
-        "groupId":-1,
-        "isUserData":true,
-        "x":1349.9603994191827,
-        "y":519.5999999999999,
-        "type":{"@ref":2},
-        "score":0.0,
-        "data":";NP_036244;LINCS-Test;PNNL-Comp-Mass-Spec;master",
-        "label":"NP_036244",
-        "badge":0,
-        "sections":null,
-        "listValues":null,
-        "explainers":null,
-        "views":null,
-        "attributes":{
-          "@type":"java.util.LinkedHashMap",
-          "LITERATURE:24875404":"(2014) Spatial regulation of Aurora A activity during mitotic spindle assembly requires RHAMM to correctly localize TPX2.",
-          "PUBMEDS:targeting protein Xklp2":"Pubmed Titles List"
-        },
-        "buttons":{
-          "@type":"java.util.HashMap"
-        }
-      }
-    ]
+    "@type":"java.util.ArrayList"
   },
-  "userEdges":null,
+  "userEdges":{
+    "@type":"java.util.ArrayList"
+  },
   "groups":null
 }
