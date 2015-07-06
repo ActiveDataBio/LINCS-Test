@@ -1,16 +1,16 @@
 {
   "@type":"gov.pnnl.activedata.data.Canvas",
-  "id":1435250550365,
-  "name":"Sample01_joonyong.lee@pnnl.gov",
-  "creationDate":1435250550365,
-  "lastModifiedDate":1435250550365,
+  "id":1436224008144,
+  "name":"LINCS-Test_joonyong.lee@pnnl.gov",
+  "creationDate":1436224008144,
+  "lastModifiedDate":1436224008144,
   "users":{
     "@type":"java.util.ArrayList",
     "@items":[
       {
         "@type":"gov.pnnl.activedata.data.ADUser",
         "id":0,
-        "name":"Sample01_joonyong.lee@pnnl.gov"
+        "name":"LINCS-Test_joonyong.lee@pnnl.gov"
       }
     ]
   },
