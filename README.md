@@ -9,6 +9,6 @@ LINCS-Test
 <!--adbio-funding-->
 <!--adbio-publication-->
 <!--adbio-organism-->
-Organism [Homo sapiens (human)](http://www.genome.jp/kegg-bin/show_organism?org=hsa)
+Organism [undefined](http://www.genome.jp/kegg-bin/show_organism?org=)
 <!------------------------------------------------------------------------------>
 <!--you can add any other information here-->
