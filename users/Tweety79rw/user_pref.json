@@ -1,6 +1,44 @@
 {
-  "dendrograms": {
-    "rowSha": "4c1a454da4a47920ef367198333971901084bc64",
-    "colSha": "6bdaf1bf5aca2042d6b4e53ea28fa4d3089653b2"
-  }
+  "tests" : {
+    "col" : {
+      "metadata" : {
+        "name" : "metadata.tsv",
+        "sha" : "9bc5e00e1ee62d46cf39b611a9ce33fa8ef3f407"
+      },
+      "script" : {
+        "name" : "test_samples.r",
+        "sha" : "c059706ce980580475df5a599e8d72f805162fa5"
+      },
+      "custom" : [ ]
+    },
+    "row" : {
+      "geneset" : {
+        "name" : "genesets.RData",
+        "sha" : "5789a36488faab8c9526ac07864f63afa0685a34"
+      },
+      "script" : {
+        "name" : "test_molecules.r",
+        "sha" : "9a9ff485ffc010368a3173952d7b0ed66257a822"
+      },
+      "background" : {
+        "name" : "background.csv",
+        "sha" : "846e665025f0cec58e8a5969caf9d6f1a1c6f5bd"
+      }
+    }
+  },
+  "dataset" : {
+    "matrix" : {
+      "name" : "matrix.csv",
+      "sha" : "e883f3422e84d485016cd1a2c1cebae9f95a56d3"
+    },
+    "col" : {
+      "name" : "dendro_col.json",
+      "sha" : "0ebf087ff0ae86eb241cab4fc0a4ed4f9026621c"
+    },
+    "row" : {
+      "name" : "dendro_row.json",
+      "sha" : "4c1a454da4a47920ef367198333971901084bc64"
+    }
+  },
+  "recommenders" : null
 }
